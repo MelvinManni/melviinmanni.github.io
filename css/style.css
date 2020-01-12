@@ -105,6 +105,11 @@ ul li {
     font-size: 24px;
 }
 
+.welcome-text{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
 .buttons{
    margin-top:30px;
 }
